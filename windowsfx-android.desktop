@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=linuxfx-android
+GenericName[en_US]=
+GenericName=
+Icon=/opt/Linuxfx/wxdesktop/androidfx/icon.png
+MimeType=
+Name[en_US]=Linuxfx Android
+Name=Linuxfx Android
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
